@@ -35,3 +35,6 @@ print(f'''Сегодня вы прошли {namber_of_steps} шагов
 Пройденная дистанция {round(kilometrs_traveled, 1)} км
 Потрачено {int(ccal_on_kilometrs)} ккал
 {congratulation}''')
+
+print('Версия приложеиня номер 2')
+
